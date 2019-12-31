@@ -5,7 +5,7 @@
 # Site
 title: 小鲤悦动
 subtitle: ''
-description: ''
+description: '专注、价值'
 keywords:
 author: 小鲤
 language: zh-CN
@@ -14,7 +14,7 @@ timezone: Asia/Shanghai
 # URL
 ## If your site is put in a subdirectory, set url as 'http://yoursite.com/child' and root as '/child/'
 url: https://jinlibond.com
-root: /jinlibond.github.io
+root: /
 permalink: :year/:month/:day/:title/
 permalink_defaults:
 pretty_urls:
